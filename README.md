@@ -28,49 +28,49 @@ You may use Intellij IDEA to run this application.
 ```
 
 ### scenario 1 : Main Screen Before Login
-![alt text](./doc/Images/1_main.PNG "Main before login")
+![alt text](./doc/images/1_main.PNG "Main before login")
 ```
 PUT DESCRIPTION ON HERE!
 ```
 
 ### scenario 2 : Main Screen After Login
-![alt text](./doc/Images/2_main_login.PNG "Main after login")
+![alt text](./doc/images/2_main_login.PNG "Main after login")
 ```
 PUT DESCRIPTION ON HERE!
 ```
 
 ### scenario 3 : Choose State and Display Congressional Districts
-![alt text](./doc/Images/3_cd_view.PNG "Congressional District View")
+![alt text](./doc/images/3_cd_view.PNG "Congressional District View")
 ```
 PUT DESCRIPTION ON HERE!
 ```
 
 ### scenario 4 : Set Specific Measurement Profile for Redistricting
-![alt text](./doc/Images/4_set_mp.PNG "Set Measurement Profile")
+![alt text](./doc/images/4_set_mp.PNG "Set Measurement Profile")
 ```
 PUT DESCRIPTION ON HERE!
 ```
 
 ### scenario 5 : Playmode Before Start Redistricting
-![alt text](./doc/Images/5_playmode.PNG "Default Playmode")
+![alt text](./doc/images/5_playmode.PNG "Default Playmode")
 ```
 PUT DESCRIPTION ON HERE!
 ```
 
 ### scenario 6 : Running Redistricting
-![alt text](./doc/Images/6_running.PNG "Redistricting")
+![alt text](./doc/images/6_running.PNG "Redistricting")
 ```
 PUT DESCRIPTION ON HERE!
 ```
 
 ### scenario 7 : Terminated Redistricting
-![alt text](./doc/Images/7_terminate.PNG "Terminated")
+![alt text](./doc/images/7_terminate.PNG "Terminated")
 ```
 PUT DESCRIPTION ON HERE!
 ```
 
 ### scenario 8 : Display User Information Modal
-![alt text](./doc/Images/8_user_info.PNG "User Information Modal")
+![alt text](./doc/images/8_user_info.PNG "User Information Modal")
 ```
 PUT DESCRIPTION ON HERE!
 ```
